@@ -4,12 +4,11 @@
 ### Get Started
  Clone the repository using git.
 ```
+https://github.com/vishwa98/Mango-Holidays.git
 ```
 
 Then install the dependencies.
 ```$xslt
-yarn
-or 
 npm install
 ```
 
